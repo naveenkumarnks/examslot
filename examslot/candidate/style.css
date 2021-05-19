@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(rgba(252, 252, 252, 0.5),rgba(55, 55, 161, 0.5)),url(nks3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.login-box{
+    max-width: 1500px;
+    width: fit-content;
+    float: none;
+    margin: 100px auto;
+}
+.login-left{
+    background: rgba(255, 255, 255, 0.5);
+    padding: 70px;
+    padding-top: 170px;
+    
+}
+.login-right{
+    background: rgba(211, 211, 211, 0.5) ;
+    padding: 70px;
+}
+.form-control{
+    background-color: transparent !important;
+}
+
+a{
+    color: #fff !important;
+    margin-top: 0px ;
+}
+
+
+h5{
+    color: #fff !important;
+    margin-top: 0px ;
+}
+
+map{
+    width: 400px;
+    height: 400px;
+}
